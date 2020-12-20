@@ -22,7 +22,7 @@ Implements the M150 command syntax from the latest Marlin.
 2. Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    	https://github.com/ozgunawesome/OctoPrint-PCA9685LEDStripControl/archive/master.zip
+    	https://github.com/aleacevedo/OctoPrint-PCA9685LEDStripControl/archive/master.zip
 
 3. Restart OctoPrint
 
