@@ -20,9 +20,9 @@ plugin_package = "octoprint_PCA9685LEDStripControl"
 plugin_name = "OctoPrint-PCA9685LEDStripControl"
 plugin_version = "0.3.10"
 plugin_description = """OctoPrint plugin for controling RGB LED Strips via PCA9685 over I2C"""
-plugin_author = "Ozgun Ayaz"
-plugin_author_email = "11738322+ozgunawesome@users.noreply.github.com"
-plugin_url = "https://github.com/ozgunawesome/OctoPrint-PCA9685LEDStripControl"
+plugin_author = "Alejo Acevedo"
+plugin_author_email = "19255688+aleacevedo@users.noreply.github.com"
+plugin_url = "https://github.com/aleacevedo/OctoPrint-PCA9685LEDStripControl"
 plugin_license = "Apache"
 plugin_requires = ["Adafruit_PCA9685"]
 
